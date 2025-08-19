@@ -1,0 +1,9 @@
+# Pliki środowiskowe
+.env
+
+# Cache i pliki systemowe Pythona
+__pycache__/
+*.pyc
+
+# Pliki generowane przez Poetry/pip
+.venv/
